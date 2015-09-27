@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/javiercejudo/unit-synonyms-area/badge.svg?branch=master)](https://coveralls.io/r/javiercejudo/unit-synonyms-area?branch=master)
 [![Code Climate](https://codeclimate.com/github/javiercejudo/unit-synonyms-area/badges/gpa.svg)](https://codeclimate.com/github/javiercejudo/unit-synonyms-area)
 
-Mass units synonyms
+Area units synonyms
 
 ## Install
 
