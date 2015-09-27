@@ -1,6 +1,6 @@
 {
   "name": "unit-synonyms-area",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Area units synonyms",
   "main": "src/index.js",
   "scripts": {
